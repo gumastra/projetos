@@ -8,13 +8,13 @@ Utilizando as ferramentas que preferir crie um teste automatizado que faça o fl
   5- Adicione o carrinho <br>
   6- Valide o produto no carrinho<br>
 
-**Tecnologias Usadas**<br>
+**Tecnologias Usadas:**<br>
 Selenium, Junit, Cucumber, Java e Maven<br>
 Conceito: Page Objects<br>
 Report: Cucumber Report<br>
 Github<br>
 
-**Cenários de Teste**<br>
+**Cenários de Teste:**<br>
 DADO que o cliente esteja na pagina principal do magazine luiza<br>
 QUANDO buscar pelo produto geladeira<br>
 ENTÃO a lista de resultados deve ser exibida<br>
